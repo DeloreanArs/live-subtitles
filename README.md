@@ -54,7 +54,6 @@ The program captures system audio, recognizes speech, and shows subtitles **on t
 ### Who it helps
 - 🦻 **Deaf and hard of hearing users** — real-time subtitles.
 - 🎮 **Gamers** — watching streams without sound.
-- 🌍 **Language learners** — reading speech (with translation in v1.1).
 - 📺 **Watching videos in noisy environments.**
 
 ### Requirements
