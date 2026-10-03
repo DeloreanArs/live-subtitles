@@ -1,0 +1,8 @@
+faster-whisper
+pyaudiowpatch
+deep-translator
+pystray
+pillow
+keyboard
+pywin32
+numpy
